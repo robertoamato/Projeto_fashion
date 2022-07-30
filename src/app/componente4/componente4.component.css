@@ -1,0 +1,47 @@
+#imagem1{
+  
+  width: 400px;
+  margin-left: 100px;
+  border-radius: 500px;
+ 
+}
+
+#imagem2{
+
+  width: 400px;
+  margin-left: 100px;
+  border-radius: 500px;
+
+}
+
+#imagem3{
+
+  width: 400px;
+  margin-left: 100px;
+  border-radius: 500px;
+
+}
+
+.cardtitulo{
+
+  text-transform: uppercase;
+  letter-spacing: 4px;
+  font-size: 16px;
+  font-weight: bold;
+  text-align: center;
+  top: 100px;
+  
+
+  
+}
+
+.card-text{
+
+  color: #555;
+    padding: 0 100px 50px 100px;
+    overflow: auto;
+    text-align: center;
+
+
+}
+
